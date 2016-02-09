@@ -1,0 +1,14 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# CSV files
+*.csv
+
+# Data files
+data/
+competition-details/
+inter-data/
